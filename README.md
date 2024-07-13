@@ -2,6 +2,18 @@
 
 This repository contains a Vue.js navigation component that provides a responsive navbar with a mega menu and mobile menu functionality.
 
+## Preview
+
+### Desktop View
+![Desktop Navbar Preview](https://github.com/AroshaRavishan/Navbar-with-Mega-Menu-Vue3/blob/main/Navbar%20Preview.png)
+
+### Mega Menu
+![Mega Menu Preview](https://github.com/AroshaRavishan/Navbar-with-Mega-Menu-Vue3/blob/main/Mega%20Menu%20Preview.png)
+
+### Mobile View
+![Mobile View Preview](https://github.com/AroshaRavishan/Navbar-with-Mega-Menu-Vue3/blob/main/Mobile%20View.png)
+
+
 ## Features
 
 - Responsive design that adapts to different screen sizes
