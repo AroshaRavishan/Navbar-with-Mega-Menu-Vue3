@@ -1,11 +1,6 @@
 <script setup>
-import {
-    ref,
-    onMounted
-} from 'vue';
+import {ref, onMounted } from 'vue';
 import Preline from "preline";
-
-
 const isOpen = ref(false);
 
 const toggleMenu = () => {
