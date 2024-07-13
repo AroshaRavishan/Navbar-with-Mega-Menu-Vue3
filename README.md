@@ -13,6 +13,8 @@ This repository contains a Vue.js navigation component that provides a responsiv
 ### Mobile View
 ![Mobile View Preview](https://github.com/AroshaRavishan/Navbar-with-Mega-Menu-Vue3/blob/main/Mobile%20View.png)
 
+### Drawer Menu
+![Drawer View Preview](https://github.com/AroshaRavishan/Navbar-with-Mega-Menu-Vue3/blob/main/Navabr%20With%20Drawer%20Menu.png)
 
 ## Features
 
