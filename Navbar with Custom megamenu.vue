@@ -51,8 +51,8 @@ onMounted(() => {
                             <img loading="lazy" :src="$page.props.assetURL ? $page.props.assetURL + '/web-assets/WebRevamp/arrowdown.svg' : '../../web-assets/WebRevamp/arrowdown.svg'" alt="arrowdown" class="">
                         </button>
                         <div class="mega-menu">
-                            <div @mouseleave="handleMouseLeave" @mouseenter="handleMouseEnter" class="">
-                                <div class="container bg-white sm:shadow-md py-2 sm:px-2 dark:bg-neutral-800 sm:dark:border dark:border-neutral-700 dark:divide-neutral-700 mx-auto border border-ash-550 z-1 relative">
+                            <div @mouseleave="handleMouseLeave" @mouseenter="handleMouseEnter" class="container">
+                                <div class=" bg-white sm:shadow-md py-2 sm:px-2 dark:bg-neutral-800 sm:dark:border dark:border-neutral-700 dark:divide-neutral-700 mx-auto border border-ash-550 z-1 relative">
                                     <div class="sm:grid sm:grid-cols-3">
                                         <div class="flex flex-col">
                                             <a class="flex items-center gap-x-3.5 py-2 px-3 rounded-lg text-sm text-gray-800 hover:bg-gray-100 focus:ring-2 focus:ring-blue-500 dark:text-neutral-400 dark:hover:bg-neutral-700 dark:hover:text-neutral-300" href="#">
