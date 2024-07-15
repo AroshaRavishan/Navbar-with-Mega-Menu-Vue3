@@ -16,6 +16,10 @@ This repository contains a Vue.js navigation component that provides a responsiv
 ### Drawer Menu
 ![Drawer View Preview](https://github.com/AroshaRavishan/Navbar-with-Mega-Menu-Vue3/blob/main/Navabr%20With%20Drawer%20Menu.png)
 
+
+### Custom Mega menu with background Overlay
+![Custom Mega menu with background Overlay](https://github.com/AroshaRavishan/Navbar-with-Mega-Menu-Vue3/blob/main/Custom%20Nabar%20with%20Background%20Overlay.png)
+
 ## Features
 
 - Responsive design that adapts to different screen sizes
