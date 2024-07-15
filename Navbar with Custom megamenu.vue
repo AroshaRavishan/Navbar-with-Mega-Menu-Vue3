@@ -194,6 +194,9 @@ onMounted(() => {
 }
 
 .mega-menu {
+    opacity: 0;
+    visibility: hidden;
+    z-index: -900;
     left: 0;
     position: absolute;
     text-align: left;
@@ -203,6 +206,14 @@ onMounted(() => {
 /* #hoverable Class Styles */
 .hoverable {
     position: static;
+}
+
+.hoverable>a:after {
+    content: "\25BC";
+    font-size: 10px;
+    padding-left: 6px;
+    position: relative;
+    top: -1px;
 }
 
 </style>
